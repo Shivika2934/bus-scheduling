@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "leaflet": "^1.9.4",
+    "react-bootstrap": "^2.10.4",
+    "react-leaflet": "^4.2.1"
+  }
+}

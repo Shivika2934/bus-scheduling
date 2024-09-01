@@ -1,40 +1,54 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import { Container, Table, Spinner, Alert } from 'react-bootstrap';
 
-const BusList = () => {
+function BusList() {
   const [buses, setBuses] = useState([]);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Fetch the list of buses from the backend
-    axios.get('http://localhost:3000/buses')
-      .then(response => {
+    async function fetchBuses() {
+      try {
+        const response = await axios.get('http://localhost:3000/buses');
         setBuses(response.data);
-      })
-      .catch(err => {
-        setError('Failed to fetch buses');
-        console.error('There was an error fetching the buses!', err);
-      });
+      } catch (error) {
+        setError('Error fetching buses.');
+        console.error('Error fetching buses:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    fetchBuses();
   }, []);
 
+  if (loading) return <Spinner animation="border" />;
+  if (error) return <Alert variant="danger">{error}</Alert>;
+
   return (
-    <div>
+    <Container className="mt-5">
       <h2>Bus List</h2>
-      {error && <p>{error}</p>}
-      <ul>
-        {buses.length > 0 ? (
-          buses.map(bus => (
-            <li key={bus.id}>
-              {bus.bus_number} - Capacity: {bus.capacity}
-            </li>
-          ))
-        ) : (
-          <p>No buses found.</p>
-        )}
-      </ul>
-    </div>
+      <Table striped bordered hover>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Bus Number</th>
+            <th>Capacity</th>
+          </tr>
+        </thead>
+        <tbody>
+          {buses.map(bus => (
+            <tr key={bus.id}>
+              <td>{bus.id}</td>
+              <td>{bus.bus_number}</td>
+              <td>{bus.capacity}</td>
+            </tr>
+          ))}
+        </tbody>
+      </Table>
+    </Container>
   );
-};
+}
 
 export default BusList;
-

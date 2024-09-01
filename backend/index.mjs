@@ -84,15 +84,16 @@ app.delete('/buses/:id', async (req, res) => {
   }
 });
 
-// Get all routes
+// In your backend Express server
 app.get('/routes', async (req, res) => {
   try {
-    const result = await pooll.query('SELECT * FROM routes');
+    const result = await pooll.query('SELECT * FROM routes'); // Ensure this includes latitude and longitude
     res.json(result.rows);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 });
+
 
 // Create a new route
 app.post('/routes', async (req, res) => {

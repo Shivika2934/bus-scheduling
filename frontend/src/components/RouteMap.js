@@ -1,21 +1,20 @@
 import React from 'react';
 import { Container, Card } from 'react-bootstrap';
 
-const Home = () => {
+const RouteMap = () => {
   return (
     <Container className="mt-5">
       <Card>
         <Card.Body>
-          <h1>Welcome to the Bus Scheduling System</h1>
+          <h1>Route Map</h1>
           <p>
-            This is the home page. You can plan your journey, view bus schedules, and more.
+            View the route map of all bus lines here.
           </p>
+          {/* Add more details or map component here */}
         </Card.Body>
       </Card>
     </Container>
   );
 };
 
-export default Home;
-
-
+export default RouteMap;
