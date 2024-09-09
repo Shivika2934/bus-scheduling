@@ -1,0 +1,1616 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-07T10:21:29Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8234263",
+        "fixme": "Route incomplete",
+        "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+        "name": "344: ? -> Kalyanpuri",
+        "operator": "Delhi Transport Corporation",
+        "public_transport:version": "2",
+        "ref": "344",
+        "route": "bus",
+        "to": "Kalyanpuri",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2015313,
+            28.5450182
+          ],
+          [
+            77.2020368,
+            28.5458751
+          ],
+          [
+            77.2024309,
+            28.5466016
+          ],
+          [
+            77.2028053,
+            28.5473076
+          ],
+          [
+            77.2030494,
+            28.5479013
+          ],
+          [
+            77.203398,
+            28.5489604
+          ],
+          [
+            77.2035818,
+            28.5495435
+          ],
+          [
+            77.2039211,
+            28.5506202
+          ],
+          [
+            77.2040297,
+            28.550956
+          ],
+          [
+            77.2041511,
+            28.5512334
+          ],
+          [
+            77.2043623,
+            28.5517134
+          ],
+          [
+            77.2046466,
+            28.5523566
+          ],
+          [
+            77.2048894,
+            28.5528667
+          ],
+          [
+            77.2051764,
+            28.5533779
+          ],
+          [
+            77.2052447,
+            28.5535264
+          ],
+          [
+            77.2052608,
+            28.5536368
+          ],
+          [
+            77.2052988,
+            28.5537429
+          ],
+          [
+            77.2054907,
+            28.5541557
+          ],
+          [
+            77.2061045,
+            28.555517
+          ],
+          [
+            77.2060936,
+            28.5556845
+          ],
+          [
+            77.2061876,
+            28.5560719
+          ],
+          [
+            77.2062865,
+            28.5562667
+          ],
+          [
+            77.2063039,
+            28.556335
+          ],
+          [
+            77.2063589,
+            28.5565501
+          ],
+          [
+            77.2064828,
+            28.5570812
+          ],
+          [
+            77.2064911,
+            28.5571166
+          ],
+          [
+            77.206504,
+            28.5571722
+          ],
+          [
+            77.2065569,
+            28.5574927
+          ],
+          [
+            77.2065617,
+            28.5575244
+          ],
+          [
+            77.2066565,
+            28.5578922
+          ],
+          [
+            77.2067237,
+            28.5582102
+          ],
+          [
+            77.2068125,
+            28.5586623
+          ],
+          [
+            77.2068683,
+            28.5589662
+          ],
+          [
+            77.2069228,
+            28.5592742
+          ],
+          [
+            77.2069588,
+            28.5594777
+          ],
+          [
+            77.2069674,
+            28.559538
+          ],
+          [
+            77.206972,
+            28.5595672
+          ],
+          [
+            77.2070406,
+            28.5598832
+          ],
+          [
+            77.2071305,
+            28.5603079
+          ],
+          [
+            77.2072573,
+            28.561319
+          ],
+          [
+            77.2073072,
+            28.5617169
+          ],
+          [
+            77.2074201,
+            28.5624336
+          ],
+          [
+            77.207524,
+            28.5632159
+          ],
+          [
+            77.2075314,
+            28.5637267
+          ],
+          [
+            77.2075337,
+            28.5640369
+          ],
+          [
+            77.2074821,
+            28.5642851
+          ],
+          [
+            77.2073905,
+            28.5645082
+          ],
+          [
+            77.2073511,
+            28.5647654
+          ],
+          [
+            77.2073355,
+            28.5650147
+          ],
+          [
+            77.2073315,
+            28.5651301
+          ],
+          [
+            77.2073328,
+            28.5651866
+          ],
+          [
+            77.2073422,
+            28.5652396
+          ],
+          [
+            77.2073877,
+            28.5654088
+          ],
+          [
+            77.2074665,
+            28.5657235
+          ],
+          [
+            77.207467,
+            28.5657313
+          ],
+          [
+            77.2075493,
+            28.5662939
+          ],
+          [
+            77.2075688,
+            28.5663673
+          ],
+          [
+            77.2076329,
+            28.5666043
+          ],
+          [
+            77.2076378,
+            28.5666225
+          ],
+          [
+            77.2077113,
+            28.566894
+          ],
+          [
+            77.2078093,
+            28.567272
+          ],
+          [
+            77.2078344,
+            28.5673686
+          ],
+          [
+            77.2079586,
+            28.5678961
+          ],
+          [
+            77.2079672,
+            28.5679227
+          ],
+          [
+            77.2079778,
+            28.5679669
+          ],
+          [
+            77.2079934,
+            28.568032
+          ],
+          [
+            77.2082409,
+            28.5688121
+          ],
+          [
+            77.2085336,
+            28.5695174
+          ],
+          [
+            77.208747,
+            28.5700586
+          ],
+          [
+            77.2089905,
+            28.571329
+          ],
+          [
+            77.2090352,
+            28.5717114
+          ],
+          [
+            77.2091702,
+            28.5726114
+          ],
+          [
+            77.2092203,
+            28.5731721
+          ],
+          [
+            77.2092737,
+            28.5735615
+          ],
+          [
+            77.2092946,
+            28.5738
+          ],
+          [
+            77.2094181,
+            28.5743663
+          ],
+          [
+            77.2095568,
+            28.5749581
+          ],
+          [
+            77.2095617,
+            28.5752933
+          ],
+          [
+            77.20999,
+            28.5762872
+          ],
+          [
+            77.2100897,
+            28.5762551
+          ],
+          [
+            77.2105456,
+            28.5774044
+          ],
+          [
+            77.2108576,
+            28.5781313
+          ],
+          [
+            77.2108987,
+            28.5782309
+          ],
+          [
+            77.2112575,
+            28.5791381
+          ],
+          [
+            77.2113696,
+            28.5794532
+          ],
+          [
+            77.2123185,
+            28.5828134
+          ],
+          [
+            77.2123379,
+            28.582908
+          ],
+          [
+            77.2123741,
+            28.5831088
+          ],
+          [
+            77.2124326,
+            28.5834334
+          ],
+          [
+            77.2124272,
+            28.5836153
+          ],
+          [
+            77.212425,
+            28.583744
+          ],
+          [
+            77.2124208,
+            28.5838039
+          ],
+          [
+            77.2124074,
+            28.5839941
+          ],
+          [
+            77.2124011,
+            28.5841233
+          ],
+          [
+            77.2123936,
+            28.584238
+          ],
+          [
+            77.2123901,
+            28.5844107
+          ],
+          [
+            77.2123806,
+            28.584598
+          ],
+          [
+            77.2123746,
+            28.5848236
+          ],
+          [
+            77.2123653,
+            28.5849479
+          ],
+          [
+            77.2123593,
+            28.5850411
+          ],
+          [
+            77.212366,
+            28.5853096
+          ],
+          [
+            77.2123851,
+            28.5854549
+          ],
+          [
+            77.2123967,
+            28.5855435
+          ],
+          [
+            77.2124321,
+            28.5858198
+          ],
+          [
+            77.2124745,
+            28.5861873
+          ],
+          [
+            77.212537,
+            28.5867318
+          ],
+          [
+            77.2125701,
+            28.5870283
+          ],
+          [
+            77.2126831,
+            28.5879907
+          ],
+          [
+            77.2128154,
+            28.5892278
+          ],
+          [
+            77.2128291,
+            28.5893559
+          ],
+          [
+            77.2128306,
+            28.5894262
+          ],
+          [
+            77.2128325,
+            28.5895147
+          ]
+        ]
+      },
+      "id": "relation/8234263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/10220581",
+        "fixme": "Route incomplete",
+        "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+        "from": "Kalyanpuri",
+        "name": "344: Kalyanpuri -> ?",
+        "operator": "Delhi Transport Corporation",
+        "public_transport:version": "2",
+        "ref": "344",
+        "route": "bus",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              77.212553,
+              28.5843482
+            ],
+            [
+              77.2125519,
+              28.5842411
+            ],
+            [
+              77.2125462,
+              28.5836805
+            ],
+            [
+              77.212519,
+              28.5833366
+            ],
+            [
+              77.2124462,
+              28.5828121
+            ],
+            [
+              77.2123785,
+              28.5823751
+            ],
+            [
+              77.2123384,
+              28.582224
+            ],
+            [
+              77.2115407,
+              28.5794322
+            ],
+            [
+              77.2114341,
+              28.5791334
+            ],
+            [
+              77.2111538,
+              28.578414
+            ],
+            [
+              77.2111144,
+              28.5783022
+            ],
+            [
+              77.2106651,
+              28.5771949
+            ],
+            [
+              77.2106052,
+              28.5770691
+            ],
+            [
+              77.2102961,
+              28.5764204
+            ],
+            [
+              77.2101773,
+              28.5761593
+            ],
+            [
+              77.2099733,
+              28.5756545
+            ],
+            [
+              77.2097869,
+              28.5751934
+            ],
+            [
+              77.2096332,
+              28.5748132
+            ],
+            [
+              77.2095424,
+              28.5742832
+            ],
+            [
+              77.2094834,
+              28.5737613
+            ],
+            [
+              77.2094732,
+              28.5736829
+            ],
+            [
+              77.2094574,
+              28.573436
+            ],
+            [
+              77.2094563,
+              28.5733757
+            ],
+            [
+              77.2094509,
+              28.5732444
+            ],
+            [
+              77.2094403,
+              28.5731384
+            ],
+            [
+              77.2094039,
+              28.5728814
+            ],
+            [
+              77.2093937,
+              28.5727284
+            ],
+            [
+              77.2093377,
+              28.572268
+            ],
+            [
+              77.2092801,
+              28.5720003
+            ],
+            [
+              77.2091913,
+              28.5715728
+            ],
+            [
+              77.2089918,
+              28.5702593
+            ],
+            [
+              77.208904,
+              28.569996
+            ],
+            [
+              77.2087516,
+              28.5695403
+            ],
+            [
+              77.2083565,
+              28.5687991
+            ],
+            [
+              77.2081688,
+              28.5680973
+            ],
+            [
+              77.2080801,
+              28.5677967
+            ],
+            [
+              77.2080219,
+              28.567578
+            ],
+            [
+              77.2078586,
+              28.5669119
+            ],
+            [
+              77.2077185,
+              28.5663401
+            ],
+            [
+              77.2077112,
+              28.5663104
+            ],
+            [
+              77.2075853,
+              28.5657265
+            ],
+            [
+              77.2076057,
+              28.5653814
+            ],
+            [
+              77.2076628,
+              28.5651454
+            ],
+            [
+              77.2076847,
+              28.5647048
+            ],
+            [
+              77.2076815,
+              28.564474
+            ],
+            [
+              77.2076293,
+              28.5642346
+            ],
+            [
+              77.2076487,
+              28.564016
+            ],
+            [
+              77.2076633,
+              28.5636201
+            ],
+            [
+              77.2076538,
+              28.5634442
+            ],
+            [
+              77.2076392,
+              28.5631757
+            ],
+            [
+              77.2076244,
+              28.5630353
+            ],
+            [
+              77.2076075,
+              28.5628744
+            ],
+            [
+              77.2074833,
+              28.5616936
+            ],
+            [
+              77.207477,
+              28.5616334
+            ],
+            [
+              77.2074529,
+              28.5614876
+            ],
+            [
+              77.2072206,
+              28.5601991
+            ],
+            [
+              77.2070173,
+              28.5591933
+            ],
+            [
+              77.2069315,
+              28.5587306
+            ],
+            [
+              77.2067493,
+              28.5579843
+            ],
+            [
+              77.2066963,
+              28.557696
+            ],
+            [
+              77.2066725,
+              28.5575667
+            ],
+            [
+              77.2066674,
+              28.5575392
+            ],
+            [
+              77.2066659,
+              28.557531
+            ],
+            [
+              77.206567,
+              28.5570373
+            ],
+            [
+              77.2065014,
+              28.5566397
+            ],
+            [
+              77.2064811,
+              28.5564879
+            ],
+            [
+              77.2064759,
+              28.5563805
+            ],
+            [
+              77.2065363,
+              28.5561721
+            ],
+            [
+              77.2064652,
+              28.5558081
+            ],
+            [
+              77.2062614,
+              28.5552902
+            ],
+            [
+              77.2059006,
+              28.5545301
+            ],
+            [
+              77.205753,
+              28.554307
+            ],
+            [
+              77.2054631,
+              28.5537083
+            ],
+            [
+              77.2053873,
+              28.5535673
+            ],
+            [
+              77.2050101,
+              28.5528879
+            ],
+            [
+              77.2045177,
+              28.5517517
+            ],
+            [
+              77.2045043,
+              28.5517221
+            ],
+            [
+              77.2042778,
+              28.5512224
+            ],
+            [
+              77.2041345,
+              28.5509063
+            ],
+            [
+              77.2041266,
+              28.5508889
+            ],
+            [
+              77.2040434,
+              28.5506299
+            ],
+            [
+              77.2037203,
+              28.5496237
+            ],
+            [
+              77.2032143,
+              28.5479885
+            ],
+            [
+              77.2031352,
+              28.5477906
+            ],
+            [
+              77.2028401,
+              28.5471089
+            ],
+            [
+              77.2025263,
+              28.5465348
+            ],
+            [
+              77.2023091,
+              28.5461401
+            ],
+            [
+              77.2019418,
+              28.545473
+            ]
+          ],
+          [
+            [
+              77.2129632,
+              28.5892197
+            ],
+            [
+              77.2130486,
+              28.5891686
+            ],
+            [
+              77.2130476,
+              28.5891278
+            ],
+            [
+              77.2129548,
+              28.5882901
+            ],
+            [
+              77.2129335,
+              28.5880736
+            ],
+            [
+              77.2128931,
+              28.5876636
+            ],
+            [
+              77.2128421,
+              28.5873056
+            ],
+            [
+              77.2127961,
+              28.5869265
+            ],
+            [
+              77.2127295,
+              28.5863777
+            ],
+            [
+              77.2127159,
+              28.5862756
+            ],
+            [
+              77.2126548,
+              28.5858297
+            ],
+            [
+              77.2126052,
+              28.5855053
+            ],
+            [
+              77.2125961,
+              28.5853541
+            ],
+            [
+              77.212593,
+              28.5851294
+            ],
+            [
+              77.2125933,
+              28.5849868
+            ],
+            [
+              77.2126034,
+              28.584789
+            ],
+            [
+              77.2126225,
+              28.5845083
+            ],
+            [
+              77.2126215,
+              28.584479
+            ],
+            [
+              77.2125997,
+              28.5844492
+            ],
+            [
+              77.212549,
+              28.5844225
+            ]
+          ]
+        ]
+      },
+      "id": "relation/10220581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4123579689",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.205277,
+          28.5530725
+        ]
+      },
+      "id": "node/4123579689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4133873655",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2068979,
+          28.5574366
+        ]
+      },
+      "id": "node/4133873655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026495356",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2033291,
+          28.5491087
+        ]
+      },
+      "id": "node/5026495356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026495358",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2020479,
+          28.5460849
+        ]
+      },
+      "id": "node/5026495358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306253665",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2029517,
+          28.5483535
+        ]
+      },
+      "id": "node/5306253665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567166882",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2024247,
+          28.5461885
+        ]
+      },
+      "id": "node/5567166882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732544450",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2047179,
+          28.5529
+        ]
+      },
+      "id": "node/5732544450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567166785",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2077152,
+          28.562743
+        ]
+      },
+      "id": "node/5567166785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567166881",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2067183,
+          28.5585815
+        ]
+      },
+      "id": "node/5567166881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5569852610",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2072685,
+          28.5624092
+        ]
+      },
+      "id": "node/5569852610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732543211",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2076532,
+          28.5670775
+        ]
+      },
+      "id": "node/5732543211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567166103",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2080031,
+          28.5670638
+        ]
+      },
+      "id": "node/5567166103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6404294341",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2079771,
+          28.5668754
+        ]
+      },
+      "id": "node/6404294341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5483331962",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2096539,
+          28.5739311
+        ]
+      },
+      "id": "node/5483331962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5541755269",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2096932,
+          28.5756843
+        ]
+      },
+      "id": "node/5541755269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5483332132",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212672,
+          28.584127
+        ]
+      },
+      "id": "node/5483332132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5541755268",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2122896,
+          28.5837986
+        ]
+      },
+      "id": "node/5541755268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567166878",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2128615,
+          28.5866752
+        ]
+      },
+      "id": "node/5567166878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5715382918",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212658,
+          28.5840133
+        ]
+      },
+      "id": "node/5715382918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5716610652",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10220581,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "from": "Kalyanpuri",
+              "name": "344: Kalyanpuri -> ?",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2131643,
+          28.5892861
+        ]
+      },
+      "id": "node/5716610652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732542138",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2122744,
+          28.5842799
+        ]
+      },
+      "id": "node/5732542138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732543997",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 8234263,
+            "reltags": {
+              "fixme": "Route incomplete",
+              "fixme_2": "Route deduced from stops and observation, needs to be surveyed",
+              "name": "344: ? -> Kalyanpuri",
+              "operator": "Delhi Transport Corporation",
+              "public_transport:version": "2",
+              "ref": "344",
+              "route": "bus",
+              "to": "Kalyanpuri",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2126717,
+          28.588563
+        ]
+      },
+      "id": "node/5732543997"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Card } from 'react-bootstrap';
+import BusRouteMap from './BusRouteMap';
 
 const RouteMap = () => {
   return (
@@ -10,7 +11,7 @@ const RouteMap = () => {
           <p>
             View the route map of all bus lines here.
           </p>
-          {/* Add more details or map component here */}
+          <BusRouteMap />
         </Card.Body>
       </Card>
     </Container>
